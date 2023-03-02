@@ -2,7 +2,7 @@
  My goal is to compare the performance of the classifiers (k-nearest-neighbors, logistic regression, decision trees, and support vector machines). I will use a dataset related to the marketing of bank products over the telephone. 
 
  The full report is available in the prompt_III at: 
- https://github.com/LudovicBernard98/Practical-Application-17.1----Comparing-Classifiers 
+ https://github.com/LudovicBernard98/Practical-Application-17.1----Comparing-Classifiers/blob/main/prompt_III.ipynb  
 
 ### Business Objective  
 
